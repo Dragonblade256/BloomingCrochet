@@ -8,9 +8,9 @@ body {
 
 
 body > * {
-	background-color: palegoldenrod;
+	background-color: azure;
 }
-* {background-color: palegoldenrod;}
+* {background-color: azure;}
 
 header {
     width: 100%;
