@@ -25,15 +25,14 @@ header {
 a {color: blue;
 }
 .wrapper {
-    display:block;
-    background-image: url(../Images/Header_image.jpg);
+    display:block;    
     background-size: cover
     text-align; center;
     height: 200px;
 }
 h1 {
     text-align:center;
-    float: centre;
+    float: right;
     font-family: arial, serif;
     color:royalblue;
     font-size: 2.5rem;
@@ -48,8 +47,7 @@ header > section {
 
 header > section > h1 {
     font-size: 28pt;
-	color: blue;
-	float: centre;
+	color: blue;	
 }
 nav {
     height: 100px;
