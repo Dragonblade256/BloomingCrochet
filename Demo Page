@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="english">
+<head>
+    <meta charset="UTF-8"> 
+     <title> Home Page </title>
+    <link rel="stylesheet" href="./CSS_file.css" >
+</head>
+<body>
+    <header>
+        <div class="wrapper">
+            <img src="Logo.jpg" style="height: 200px; width: 300px;"> 
+            <h1>Blooming Crochet</h1>
+            <br>
+        </div>
+        <br>
+        <nav>
+            <a href='index.html';> Home Page </a> 
+            <a href='./Gallery Page.html';>Gallery Page </a>
+            <a href='./Contact Us.html';> Contact Us </a>
+        </nav>
+        </header>
+        <br>
+    <h2> Demo Page </h2>
+<br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<br>
+<footer>
+    <img src="./facebook_logo.png" height="50" width="50" alt="Facebook Logo" usemap="#facebook">
+    <img src="./reddit_logo.jpg" height="50" width="50" alt="Reddit Logo" usemap="#reddit">
+    <img src="./threads_logo.png" height="50" width="50" alt="Threads Logo" usemap="#threads">
+    <span> Copyright Haydendruve 2024</span>
+    <map name="facebook">
+        <area shape="default" alt="Facebook Logo" href="https://www.facebook.com/login.php/" >
+    </map>
+
+    <map name="reddit">
+        <area shape="default" alt="Reddit Logo" href="https://www.reddit.com/login/" >
+    </map>
+
+    <map name="threads"> 
+        <area shape="default" alt="Threads Logo" href="https://www.threads.net/login" >
+    </map>
+</footer>
+</body>
