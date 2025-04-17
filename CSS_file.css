@@ -23,6 +23,7 @@ header {
     color: lavenderblush;	
  
 }
+header < * {color: lavenderblush}
 a {color: blue;
 }
 .wrapper {
