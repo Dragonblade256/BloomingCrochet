@@ -99,7 +99,7 @@ footer > span {
 	flex-basis: 100%;
 	text-align: center;
 }
-
+header > section > h1 > * {background-color: lavenderblush;}
 
 form {
     background-color: azure;
