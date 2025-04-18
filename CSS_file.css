@@ -26,13 +26,15 @@ header > * {background-color: lavender;}
 a {color: blue;
 }
 .wrapper {
-    display:block;    
+    display: block;    
     background-size: cover;
-    text-align; justify;
+    float: right;
+    text-align: justify;
     height: 200px;
 }
 h1 {
     text-align: center;
+    display: inline-block;
     font-family: arial, serif;
     color: darkmagenta;
     font-size: 2.5rem;
