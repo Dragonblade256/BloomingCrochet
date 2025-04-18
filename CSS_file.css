@@ -29,12 +29,12 @@ a {color: blue;
     display: block;    
     background-size: cover;
     float: right;
-    text-align: justify;
+    text-align: center;
     height: 200px;
 }
 h1 {
     text-align: center;
-    display: inline-block;
+    float: right;	
     font-family: arial, serif;
     color: darkmagenta;
     font-size: 2.5rem;
