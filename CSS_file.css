@@ -27,6 +27,7 @@ a {color: blue;
 .wrapper {
     display: block;    
     background-size: cover;
+    text-align: left;
     align-items: start;
     height: 200px;
 }
