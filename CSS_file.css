@@ -28,8 +28,7 @@ a {color: blue;
 .wrapper {
     display: block;    
     background-size: cover;
-    float: right;
-    text-align: center;
+    align-items: start;
     height: 200px;
 }
 h1 {
