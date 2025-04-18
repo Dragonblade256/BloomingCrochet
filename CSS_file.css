@@ -4,8 +4,8 @@ body {
 	min-width: 800px;
 	margin: 2em auto;
 	width: 80%;
+	color: black;
 }
-
 
 body > * {
 	background-color: azure;
@@ -20,23 +20,21 @@ header {
     flex-direction: row;
     justify-content: center;
     align-items: start;
-    color: lavenderblush;	
- 
+    color: lavender;	 
 }
-header > * {background-color: lavenderblush;}
+header > * {background-color: lavender;}
 a {color: blue;
 }
 .wrapper {
     display:block;    
-    background-size: cover
-    text-align; center;
+    background-size: cover;
+    text-align; justify;
     height: 200px;
 }
 h1 {
-    text-align:center;
-    float: right;
+    text-align: center;
     font-family: arial, serif;
-    color:darkmagenta;
+    color: darkmagenta;
     font-size: 2.5rem;
    }
 
@@ -56,9 +54,8 @@ nav {
     width: 100%;
     display: flex;
     justify-content: space-around;
-    align-content: enter;
+    align-content: center;
     background-color: azure;
-    
 }
 
 .nav a:hover {
@@ -66,7 +63,6 @@ nav {
     border-radius: 10px;
     color: black
 }
-
 
 .gallery {
 	display: flex;
@@ -76,19 +72,19 @@ nav {
 
 .gallery > article {
 	margin: 1em;
-    flex-wrap: wrap;
+    	flex-wrap: wrap;
 }
 
 .gallery > article > img {
     padding: 10px;
 }
 
-
 footer {
     display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
     color:black;
+    margin: 1em;
 }
 
 footer > img {
@@ -106,5 +102,5 @@ form {
     border-radius: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
-	margin-left: 30px;
+    margin-left: 30px;
 }
