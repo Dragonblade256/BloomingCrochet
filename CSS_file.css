@@ -18,7 +18,7 @@ header {
     position: sticky;
     top: 0;
     flex-direction: row;
-    justify-content: left;
+    justify-content: center;
     align-items: start;
     }
 a {color: blue;
@@ -27,8 +27,7 @@ a {color: blue;
     display: block;    
     background-image: url(./Header.jpg);
     background-size: cover;
-    text-align: left;
-    align-items: start;
+    text-align: center;
     height: 200px;
 }
 h1 {
