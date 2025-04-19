@@ -10,6 +10,7 @@ body {
 body > * {
     background-color: azure;
 }
+* {background-color: azure;}
 
 header {
     position: sticky;
