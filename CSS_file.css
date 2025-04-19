@@ -24,7 +24,7 @@ header {
 a {color: blue;
 }
 .wrapper {
-    display: block;    
+    display: flex;    
     background-image: url(./Header1.jpg);
     background-size: cover;
     text-align: center;
@@ -35,7 +35,7 @@ h1 {
     float: right;	
     font-family: arial, serif;
     color: darkmagenta;
-    font-size: 2.5rem;
+    font-size: 28pt;
     padding: 5px;
    }
 
