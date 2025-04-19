@@ -31,6 +31,7 @@ a {color: blue;
     text-align: center;
     }
 h1 {
+    height: 80px;
     text-align: center;
     float: right;	
     font-family: arial, serif;
