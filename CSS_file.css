@@ -18,13 +18,13 @@ header {
     position: sticky;
     top: 0;
     flex-direction: row;
-    justify-content: left;
+    justify-content: center;
     align-items: start;
     }
 a {color: blue;
 }
 .wrapper {
-    display: block;    
+    display: flex;    
     background-image: url(./Header1.jpg);
     background-size: cover;
     text-align: center;
