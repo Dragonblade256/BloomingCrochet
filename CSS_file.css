@@ -3,7 +3,7 @@ body {
 	flex-direction: column;
 	min-width: 800px;
 	margin: 2em auto;
-	width: 100%;
+	width: 80%;
 	color: black;
 }
 
@@ -31,7 +31,7 @@ a {color: blue;
     text-align: center;
     }
 h1 {
-    height: 50px;
+    height: 35px;
     text-align: center;
     float: right;	
     font-family: arial, serif;
